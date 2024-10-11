@@ -18,12 +18,12 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 1.Basic Data Types
 
-- [ ] Numbers Exercises
-- [ ] Strings Exercises
+- [✅] Numbers Exercises
+- [✅] Strings Exercises
 
 #### 6.Arrays
 
-- [ ] Array Exercises
+- [✅] Array Exercises
 
 #### 7.Hashes
 
