@@ -35,15 +35,15 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 9.Debugging
 
-- [ ✅] Debugging Exercises
+- [✅] Debugging Exercises
 
 #### 10.Basic Enumerables
 
-- [ ✅ ] Basic Enumerable Exercises
+- [✅] Basic Enumerable Exercises
 
 #### 11.Predicate Enumerables
 
-- [ ] Predicate Enumerable Exercises
+- [✅] Predicate Enumerable Exercises
 
 #### 12.Nested Collections
 
